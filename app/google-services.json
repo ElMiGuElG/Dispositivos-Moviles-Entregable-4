@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934912402412",
+    "project_id": "dispositivos-moviles-699dd",
+    "storage_bucket": "dispositivos-moviles-699dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934912402412:android:fc408119489d1e202b16c9",
+        "android_client_info": {
+          "package_name": "co.galeano.dispositivosmovilesentregable_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88Tvp6yw2sZqRiJwgTo5UhusS2ZA9-bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
