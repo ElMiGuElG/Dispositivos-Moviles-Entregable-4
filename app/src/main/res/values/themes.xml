@@ -5,6 +5,9 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="colorPrimary">@color/greenApp</item>
     </style>
-
     <style name="Theme.DispositivosMovilesEntregable4" parent="Base.Theme.DispositivosMovilesEntregable4" />
+    <style name="ImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
 </resources>
