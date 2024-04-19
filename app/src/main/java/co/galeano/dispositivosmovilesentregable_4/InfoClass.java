@@ -28,4 +28,8 @@ public class InfoClass {
         this.datacate = datacate;
         this.dataimage = dataimage;
     }
+
+    public InfoClass(){
+
+    }
 }

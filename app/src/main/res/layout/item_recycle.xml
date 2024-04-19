@@ -30,11 +30,33 @@
             android:layout_width="120dp"
             android:layout_height="30dp"
             android:layout_marginStart="20dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="3dp"
             android:layout_toEndOf="@+id/reImage"
             android:text="Name"
             android:textColor="@color/greenApp"
             android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/desctPro"
+            android:layout_width="180dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="27dp"
+            android:layout_toEndOf="@+id/reImage"
+            android:text="Description"
+            android:textColor="@color/greenApp"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/categoryPro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="15dp"
+            android:layout_toEndOf="@+id/desctPro"
+            android:text="Category"
+            android:textColor="@color/greenApp"
+            android:textSize="20dp" />
 
 
     </RelativeLayout>
